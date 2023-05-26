@@ -1,5 +1,5 @@
 ---
-title: Text Captioning
+title: Image Captioning
 emoji: 💻
 colorFrom: purple
 colorTo: green
@@ -9,4 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Image Captioning
+
+This space contains the code for image captioning. All you need to do is import an image and the system will generate the caption for you.
